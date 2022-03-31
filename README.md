@@ -2,9 +2,10 @@
 
 ## Je teste:
 * [X] React
-* [ ] Next
+  * [ ] Next
+  * [ ] Remix
+  * [ ] PReact
 * [X] Vue
 * [ ] Angular
 * [ ] Svelte
-* [ ] PReact
 * [ ] Lit
