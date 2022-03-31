@@ -3,7 +3,8 @@
 ## Je teste:
 * [X] React
 * [ ] Next
-* [ ] Vue
+* [X] Vue
 * [ ] Angular
 * [ ] Svelte
 * [ ] PReact
+* [ ] Lit
